@@ -1,0 +1,22 @@
+*
+h2{
+    
+    text-align: center;
+    font-style: italic;
+}
+th{
+    background-color: #E0476D;
+    text-align: center;
+    color: rgb(233, 167, 0);
+    text-decoration: double;
+}
+td{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #E0476D;
+    text-decoration: underline;
+    font-size: x-large;
+    font-style: italic;
+}
